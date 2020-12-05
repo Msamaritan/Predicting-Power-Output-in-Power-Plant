@@ -9,5 +9,5 @@
 ## Solution Approach 
    We can use normal Multiple Regression to solve this problem, but doesn't it seems a bit older, boring naive approach to solve Regression problems, so we are going to use Deep Neural Networks to solve this problem with higher accuracy. 10000 observations is a smaller dataset for neural networks, maybe with fine tuning the machine learning algorithms you will get higher accuracy for this problem but the neural networks will always stay at its apex when we have larger data.
    
-> We are going to create ARTIFICAL NEURAL NETWORKS (ANN) for this solution.
+## We are going to create ARTIFICAL NEURAL NETWORKS (ANN) for this solution.
    
